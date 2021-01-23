@@ -4,4 +4,3 @@ function isOdd(myNumber)
 }
 
 // Your code below:
-// Se hace el lunes
