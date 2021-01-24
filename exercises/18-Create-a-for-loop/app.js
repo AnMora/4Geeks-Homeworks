@@ -1,11 +1,10 @@
 /* This exercise should be moved before 17-Your first loop? */
-//This is a comment
+
 // Declare and write your function here:
-//vamos a ver
 
 function standardsMaker(){
 	
-	for(var i = 0; i <= 300; i++)
+	for(var i = 0; i < 300; i++)
 	{
 		console.log("Yo preguntaré si estoy atascado");
 	}
@@ -14,4 +13,4 @@ function standardsMaker(){
 }
 
 // Calling the function:
-standardsMaker(i);
+standardsMaker();
