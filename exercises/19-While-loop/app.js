@@ -1,7 +1,6 @@
 
 //fix this function:
 function startCounting(){
-    console.log('Entra en la funcion');
     
 	var counter = 100;
     
