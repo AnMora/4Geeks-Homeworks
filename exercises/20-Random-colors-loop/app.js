@@ -22,6 +22,9 @@ function getAllStudentColors() {
     }
 }
 
+//Math.floor retorna el numero mas cercano inferior
+//Math.ceil retorna el numero mas cercano superior
+
 //call the function below with the number of students in the class and print on the console
 getAllStudentColors();
 
