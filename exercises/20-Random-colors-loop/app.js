@@ -16,12 +16,12 @@ function getColor(colorNumber = 0) {
 }
 
 function getAllStudentColors() {
-    for( var i = 1; i <= 10; i++){
+    for (var i = 1; i <= 10; i++) {
         var colorRandom = Math.floor((Math.random() * 4) + 1);
         console.log(getColor(colorRandom));
     }
 }
-
+//
 //Math.floor retorna el numero mas cercano inferior
 //Math.ceil retorna el numero mas cercano superior
 
