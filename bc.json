@@ -331,7 +331,7 @@
         {
             "slug": "25-Javascript-Objects",
             "title": "25-Javascript-Objects",
-            "done": false,
+            "done": true,
             "path": "exercises/25-Javascript-Objects",
             "translations": [
                 "es",
